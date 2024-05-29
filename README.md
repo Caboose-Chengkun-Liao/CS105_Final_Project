@@ -46,4 +46,6 @@ In your compiler, press `Ctrl+Shift+X` to open the extensions bar. You'll find a
 
 ![image](vsc_searchbar.png)
 
-Type `Jupyter` in the search bar. Find the first extension in the list (the one with only 'Jupyter' as topic).
+Type `Jupyter` in the search bar. Find the first extension in the list (the one with only 'Jupyter' as topic). Click 'Install' to install it.
+
+![image](vsc_jptr.png)
