@@ -45,3 +45,5 @@ Better keep this folder clean. We will clone our GitHub repository in this folde
 In your compiler, press `Ctrl+Shift+X` to open the extensions bar. You'll find a search bar on top of it.
 
 ![image](vsc_searchbar.png)
+
+Type `Jupyter` in the search bar. Find the first extension in the list (the one with only 'Jupyter' as topic).
