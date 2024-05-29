@@ -40,4 +40,6 @@ Now you should be in the target folder that you want to store your works. You sh
 
 Better keep this folder clean. We will clone our GitHub repository in this folder later.
 
-### **GitHub account** ###
+### **Download Jupyter extensions** ###
+
+In your compiler, press `Ctrl+Shift+X` to open the extensions bar. You'll find a search bar on top of it.
