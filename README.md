@@ -49,3 +49,19 @@ In your compiler, press `Ctrl+Shift+X` to open the extensions bar. You'll find a
 Type `Jupyter` in the search bar. Find the first extension in the list (the one with only 'Jupyter' as topic). Click 'Install' to install it.
 
 ![image](vsc_jptr.png)
+
+Now you're all set to edit Jupyter notebooks in your computer.
+
+### **Terminal and direction** ###
+
+We need some git commands to update remote/local repository. You will need to open a terminal in your window. Press `Ctrl + ~` to open terminal window. If you cannot find these keys, click View->Terminal to open the terminal on the top navigation bar.
+
+![image](vsc_terminal.png)
+
+You'll find the terminal below then. Check your path on your terminal (with bunches of slashes).
+
+![image](vsc_termwindow.png)
+
+If it is not pointing to your project folder, copy the path from your local file explorer. For Windows, locate your target folder and copy the path from the path bar above.
+
+![image](vsc_local.png)
