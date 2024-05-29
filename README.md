@@ -29,3 +29,15 @@ After opening VSCode, you'll see a welcome window as below:
 Click the arrowed icon, you'll see a file explorer. Click the "Open folder" button to browse your local files.
 
 ![image](vsc_explorer.png)
+
+Select/create a folder that you want to store your final project in on your local machine. Use explorer to find the target folder and click "select folder".
+
+![image](vsc_select.png)
+
+Now you should be in the target folder that you want to store your works. You shall find the folder name on the left of your VSCode, which is in the explorer. For this example, it is a folder called "dummy_folder" I created. You may name your folder whatever you like.
+
+![image](vsc_dummy.png)
+
+Better keep this folder clean. We will clone our GitHub repository in this folder later.
+
+### **GitHub account** ###
