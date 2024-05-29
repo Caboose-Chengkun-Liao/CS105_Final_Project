@@ -65,3 +65,7 @@ You'll find the terminal below then. Check your path on your terminal (with bunc
 If it is not pointing to your project folder, copy the path from your local file explorer. For Windows, locate your target folder and copy the path from the path bar above.
 
 ![image](vsc_local.png)
+
+![image](vsc_cd.png)
+
+Then you shall see that your terminal location is in your project folder.
