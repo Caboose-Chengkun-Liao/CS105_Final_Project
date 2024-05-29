@@ -42,4 +42,4 @@ Better keep this folder clean. We will clone our GitHub repository in this folde
 
 ### **Download Jupyter extensions** ###
 
-In your compiler, press <mark>Ctrl+Shift+X</mark> to open the extensions bar. You'll find a search bar on top of it.
+In your compiler, press ~Ctrl+Shift+X~ to open the extensions bar. You'll find a search bar on top of it.
