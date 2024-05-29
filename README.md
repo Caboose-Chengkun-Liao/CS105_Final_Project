@@ -14,3 +14,4 @@ a) Visit [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
 b) Click the Download for Windows button to download. Click the down arrow on right for more versions for different systems.
 
+![image](vsc_dld.png)
