@@ -18,3 +18,14 @@ b) Click the Download for Windows button to download. Click the down arrow on ri
 
 c) After finishing downloading, run the downloaded file and follow the instructions. Customize your installation as you wish.
 
+d) After installation, you may open the VSCode and start your project!
+
+### **VSCode file management** ###
+
+After opening VSCode, you'll see a welcome window as below:
+
+![image](vsc_welcome.png)
+
+Click the arrowed icon, you'll see a file explorer. Click the "Open folder" button to browse your local files.
+
+![image](vsc_explorer.png)
