@@ -8,7 +8,7 @@ Please complete the following steps to set up your local repository.
 
 Most of you might have already heard/used this compiler before. It will save a lot of time for Github version control. Here's a brief introduction on how to install and use your visual studio to open .ipynb files.
 
-*Download Visual Studio Code*
+**Download Visual Studio Code**
 
 a) Visit [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
