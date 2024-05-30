@@ -94,4 +94,10 @@ Once you have the terminal opened, type the following command to your terminal:
 
     git clone (Remote repo URL)
 
-Replace the (Remote repo URL) with GitHub URL. To find the URL, you should visit the remote repo first. 
+Replace the (Remote repo URL) with GitHub URL. To find the URL, you should visit the remote repo first via web browser.
+
+Our repository will be [https://github.com/Caboose-Chengkun-Liao/CS105_Final_Project](https://github.com/Caboose-Chengkun-Liao/CS105_Final_Project). Click the link to visit the remote repository.
+
+Once you're in the remote, click the "code" tab on the top navigation bar. Then, in the repo click the green "code" button on top-right corner.
+
+![image](git_code.png)
