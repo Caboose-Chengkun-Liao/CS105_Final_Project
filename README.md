@@ -100,4 +100,4 @@ Our repository will be [https://github.com/Caboose-Chengkun-Liao/CS105_Final_Pro
 
 Once you're in the remote, click the "code" tab on the top navigation bar. Then, in the repo click the green "code" button on top-right corner.
 
-![image](git_code.png)
+![image](mdpic/git_code.png)
