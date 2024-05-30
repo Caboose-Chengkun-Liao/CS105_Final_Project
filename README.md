@@ -78,4 +78,20 @@ I'll introduce some basic features we need to use for this project.
 
 ### **GitHub repository** ##
 
-Repository is just the place we store our 
+Repository is the place we store our files. For GitHub, we have two concepts about repository: remote repository and local repository.
+
+Remote repo is stored in GitHub server. Consider it as "Google drive" that allows people who have access to read & write contents. It also allows you to duplicate & clone the remote repo to your local machine.
+
+However, every time you make modification on your local machine, you have to upload your work to GitHub to let others see your work. And also before starting your work, it is better to update your local repo from remote.
+
+Now, let's talk about how to clone remote repo to your vscode, upload your work to remote server, and version control.
+
+### **Clone a repository** ###
+
+First, open your terminal. Make sure the path is pointing to your project folder. If not, please refer to "Terminal and direction" part to see how to change your path.
+
+Once you have the terminal opened, type the following command to your terminal:
+
+```git clone (Remote repo URL)```
+
+Replace the (Remote repo URL) with GitHub URL. To find the URL, you should visit the remote repo first. 
