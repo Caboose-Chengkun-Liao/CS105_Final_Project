@@ -110,3 +110,74 @@ Then you have the link for cloning. Head back to your terminal in VS Code, type 
 
 ![image](mdpic/vsc_clone.png)
 
+Press enter to run the command. After that you shall see a new folder created in your current path. That is your local replication of remote repository, which is your local repo.
+
+![image](mdpic/vsc_new.png)
+
+Type the following command in your terminal:
+
+    cd CS105_Final_Project
+
+You will find your path is changed to the new folder now. This is going to be your local repo.
+
+### **Git branches** ###
+
+For GitHub, we will have a default main branch. This is going to be the final version of our work and shall not be modified until everything is settled. This is why we need to create our own branches while working. In your local machine, type the following command to create a new branch:
+
+    git checkout -b branch-name
+
+You can change branch-name to any name you like. But it's better to rename it as your own name.
+
+Then, type `git branch` to see branches you have on your local machine. You'll see a star beside the "dummy-branch" I just created, indicates that you're at dummy-branch now.
+
+![image](mdpic/vsc_branch.png)
+
+To switch between different branches, type `git checkout branch-name`. Change branch-name to the target branch you want to go. For example, if you want to checkout the main branch, type the following:
+
+    git checkout main
+
+Then you shall be in main branch. Remember: never modify main branch! Work on your own branch instead.
+
+### **Update local repo and upload your work** ###
+
+Suppose we're in a dummy-branch. We create a new file called dummyfile. Now we need to upload it to remote repository.
+
+![image](mdpic/vsc_dummyfile.png)
+
+There are three things we need to do when we want to upload our work: add, commit and push. Type the following command in terminal:
+
+    git add .
+
+This will add all the modified files to the tracking. Then, you need a commit message to state what you've done during this modification by typing:
+
+    git commit -m "Commit message"
+
+You may find an error message like this:
+
+![image](mdpic/vsc_error.png)
+
+This is because you haven't added a credential on your local machine. You shall log in to your GitHub account before pushing your work. Type:
+
+    git config --global user.email "you@example.com"
+
+Use your registered email on GitHub. After logging in, type in your commit message again. Then run following command:
+
+    git push
+
+You'll find an error message again. This is because you haven't upload your working branch. Run:
+
+    git push --set-upstream origin branch-name
+
+Replace the branch-name with your branch name. Then you'll find a pop-up window:
+
+![image](mdpic/vsc_pop.png)
+
+Click "Sign in with your browser" and follow the instructions to log in. Then type `git push --set-upstream origin branch-name` again. After that, run:
+
+    git push
+
+Your work will be uploaded to a new branch in GitHub. Check it here:
+
+![image](mdpic/git_newbranch.png)
+
+Every time you make a change, you'll need to add, commit and push it. However, you do not need to set up your branch everytime.
