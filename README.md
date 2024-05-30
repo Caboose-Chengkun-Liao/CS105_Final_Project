@@ -24,19 +24,19 @@ d) After installation, you may open the VSCode and start your project!
 
 After opening VSCode, you'll see a welcome window as below:
 
-![image](vsc_welcome.png)
+![image](mdpic/vsc_welcome.png)
 
 Click the arrowed icon, you'll see a file explorer. Click the "Open folder" button to browse your local files.
 
-![image](vsc_explorer.png)
+![image](mdpic/vsc_explorer.png)
 
 Select/create a folder that you want to store your final project in on your local machine. Use explorer to find the target folder and click "select folder".
 
-![image](vsc_select.png)
+![image](mdpic/vsc_select.png)
 
 Now you should be in the target folder that you want to store your works. You shall find the folder name on the left of your VSCode, which is in the explorer. For this example, it is a folder called "dummy_folder" I created. You may name your folder whatever you like.
 
-![image](vsc_dummy.png)
+![image](mdpic/vsc_dummy.png)
 
 Better keep this folder clean. We will clone our GitHub repository in this folder later.
 
@@ -44,11 +44,11 @@ Better keep this folder clean. We will clone our GitHub repository in this folde
 
 In your compiler, press `Ctrl+Shift+X` to open the extensions bar. You'll find a search bar on top of it.
 
-![image](vsc_searchbar.png)
+![image](mdpic/vsc_searchbar.png)
 
 Type `Jupyter` in the search bar. Find the first extension in the list (the one with only 'Jupyter' as topic). Click 'Install' to install it.
 
-![image](vsc_jptr.png)
+![image](mdpic/vsc_jptr.png)
 
 Now you're all set to edit Jupyter notebooks in your computer.
 
@@ -56,16 +56,16 @@ Now you're all set to edit Jupyter notebooks in your computer.
 
 We need some git commands to update remote/local repository. You will need to open a terminal in your window. Press `Ctrl + ~` to open terminal window. If you cannot find these keys, click View->Terminal to open the terminal on the top navigation bar.
 
-![image](vsc_terminal.png)
+![image](mdpic/vsc_terminal.png)
 
 You'll find the terminal below then. Check your path on your terminal (with bunches of slashes).
 
-![image](vsc_termwindow.png)
+![image](mdpic/vsc_termwindow.png)
 
 If it is not pointing to your project folder, copy the path from your local file explorer. For Windows, locate your target folder and copy the path from the path bar above.
 
-![image](vsc_local.png)
+![image](mdpic/vsc_local.png)
 
-![image](vsc_cd.png)
+![image](mdpic/vsc_cd.png)
 
 Then you shall see that your terminal location is in your project folder.
