@@ -105,3 +105,8 @@ Once you're in the remote, click the "code" tab on the top navigation bar. Then,
 You'll find a pull-down bar. Click the "copy url" button shown in the following picture:
 
 ![image](mdpic/git_copy.png)
+
+Then you have the link for cloning. Head back to your terminal in VS Code, type `git clone [url you just copied]` to start cloning.
+
+![image](mdpic/vsc_clone.png)
+
