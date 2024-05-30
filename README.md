@@ -69,3 +69,13 @@ If it is not pointing to your project folder, copy the path from your local file
 ![image](mdpic/vsc_cd.png)
 
 Then you shall see that your terminal location is in your project folder.
+
+## **2. GitHub and version control** ##
+
+You may/may not have tried GitHub for version control. But this is really handy if you can use it properly.
+
+I'll introduce some basic features we need to use for this project.
+
+### **GitHub repository** ##
+
+Repository is just the place we store our 
