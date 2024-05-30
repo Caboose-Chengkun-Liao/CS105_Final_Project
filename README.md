@@ -92,6 +92,6 @@ First, open your terminal. Make sure the path is pointing to your project folder
 
 Once you have the terminal opened, type the following command to your terminal:
 
-        git clone (Remote repo URL)
+    git clone (Remote repo URL)
 
 Replace the (Remote repo URL) with GitHub URL. To find the URL, you should visit the remote repo first. 
